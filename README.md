@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabin Ishimwe</h1>
 <h3 align="center">A passionate software engineer and full stack developer</h3>
 
-- 🔭 I’m currently working **as Full stack developer at startup called Augmented Future**
+- 🔭 I’m currently working **as Backend Developer at Library Aid Africa**
 
 - 🌱 I’m currently learning **computer science at African Leadership University (ALU)**
 
